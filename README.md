@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Sup3r-e
+  
 - 👀 I’m interested in secure multiparty computing (MPC), privacy-preserving aggregate operations.
+  
 - 🌱 I’m currently learning how to construct a complete Privacy Set Operate system.
+  
 - ⚡ Fun fact: Travel, Dance, Free life
 
 <!---
