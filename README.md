@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Sup3r-e
+
+- ✨ I’m studying in WuHan University.
   
 - 👀 I’m interested in secure multiparty computing (MPC), privacy-preserving aggregate operations.
   
